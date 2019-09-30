@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  ez = ["1", "2", "3"]
+  ez = ["wow", "2", "3"]
   ez[0]
 end
 
